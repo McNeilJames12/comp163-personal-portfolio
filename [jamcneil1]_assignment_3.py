@@ -129,4 +129,4 @@ print(f"Total Courses Completed: {completed_courses_count}")
 print(f"Current Academic Load: {academic_load} weekly commitments")
 print(f"Entertainment Backlog: {enterainment_backlog_count} items")
 print(f"Current Hobbies: {len(hobbies)} activities")
-print("================================================================")c
+print("================================================================")
